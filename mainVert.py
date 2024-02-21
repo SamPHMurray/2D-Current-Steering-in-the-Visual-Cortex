@@ -4,7 +4,7 @@
 
 # The purpose of this is to use it model current steering in between layers
 # This specific main 
-
+ 
 # Created by Sam Murray and assisted by Proffessor Yan Wong
 # Created on the 22/01/2024
 
