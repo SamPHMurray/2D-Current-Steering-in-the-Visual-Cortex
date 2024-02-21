@@ -1,6 +1,6 @@
 # This file is used to process the many text files of raw data gotten from the main file
 # and simplifies it to a single text file showing the firing rates in between neurons
-
+ 
 # Created on the 09/01/2024
 
 import os
