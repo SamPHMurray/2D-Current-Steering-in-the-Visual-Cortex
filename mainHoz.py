@@ -1,6 +1,6 @@
 # This file takes in the classes from spatial, and utilises them to show
 # the effects of current steering within layers
-
+ 
 # The purpose of this is to use it model current steering in between layers
 # However this specific main file, checks for accuracy for model within a single
 # layer (this being the infagranular layer)
