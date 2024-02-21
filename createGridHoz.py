@@ -2,7 +2,7 @@
 # multiple contours of firing rate in the same file 
 
 # Created by Sam Murray with Proffessor Yan Wong
-
+ 
 # Created on the 15/10/2024
 
 from spatialHoz import Grid
