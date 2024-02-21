@@ -2,7 +2,7 @@
 # multiple contours of firing rate in the same file 
 # It is specifically designed so that I can work backwards to somewhat match Sabrinas
 # data
-
+ 
 # Created by Sam Murray with Proffessor Yan Wong
 
 # Created on the 15/10/2024
