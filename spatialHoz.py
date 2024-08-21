@@ -1,6 +1,6 @@
 # This file named 'spatialHoz' provides the classes that create the 2D map that
 # the current steering model is preformed on, this 2D map there is a grid
-# of tiles. The grid is a class and so are the tiles.
+# of tiles. The grid is a class and so are the tiles. 
 
 # The tile class holds specific features, neurons, and equations relating to 
 # a specific point in space
