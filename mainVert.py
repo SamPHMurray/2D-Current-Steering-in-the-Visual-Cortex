@@ -1,6 +1,6 @@
 # This file takes in the classes from spatial.py, and utilises them to show
 # the effects of current steering within or between layers depending on user 
-# choice
+# choice 
 
 # The purpose of this is to use it model current steering in between layers
 # This specific main 
